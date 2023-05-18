@@ -5,4 +5,4 @@ Completed Projects:
 
 [Day One - Band Name Generator](https://github.com/vosjon/100daysofcode_C_Sharp/blob/main/DayOne/BandNameGenerator.cs)
 
-
+[Day Two - Tip Calculator](https://github.com/vosjon/100daysofcode_C_Sharp/blob/main/DayTwo/TipCalculator.cs)
