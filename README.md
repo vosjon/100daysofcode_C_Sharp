@@ -10,3 +10,5 @@ Completed Projects:
 [Day Three - Treasure Island](https://github.com/vosjon/100daysofcode_C_Sharp/blob/main/DayThree/TreasureIsland.cs)
 
 [Day Four - Rock, Paper, Scissors](https://github.com/vosjon/100daysofcode_C_Sharp/blob/main/DayFour/RockPaperScissors.cs)
+
+[Day Five - Password Generator](https://github.com/vosjon/100daysofcode_C_Sharp/blob/main/DayFive/PasswordGenerator.cs)
